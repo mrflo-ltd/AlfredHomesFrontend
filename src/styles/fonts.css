@@ -1,0 +1,91 @@
+@font-face {
+  font-family: 'The Seasons';
+  src: local('The Seasons'),
+    url('../assets/fonts/TheSeasons-Reg.woff2') format('woff2'),
+    url('../assets/fonts/TheSeasons-Reg.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'The Seasons';
+  src: local('The Seasons'),
+    url('../assets/fonts/TheSeasons-Bd.woff2') format('woff2'),
+    url('../assets/fonts/TheSeasons-Bd.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'The Seasons';
+  src: local('The Seasons'),
+    url('../assets/fonts/TheSeasons-Lt.woff2') format('woff2'),
+    url('../assets/fonts/TheSeasons-Lt.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Apercu Pro';
+  src: local('Apercu Pro'),
+    url('../assets/fonts/ApercuPro-Medium.woff2') format('woff2'),
+    url('../assets/fonts/ApercuPro-Medium.woff') format('woff');
+  font-weight: 500;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Apercu Pro';
+  src: local('Apercu Pro'),
+    url('../assets/fonts/ApercuPro-Bold.woff2') format('woff2'),
+    url('../assets/fonts/ApercuPro-Bold.woff') format('woff');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Apercu Pro';
+  src: local('Apercu Pro'),
+    url('../assets/fonts/ApercuPro-Regular.woff2') format('woff2'),
+    url('../assets/fonts/ApercuPro-Regular.woff') format('woff');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Apercu Pro';
+  src: local('Apercu Pro'),
+    url('../assets/fonts/ApercuPro-Light.woff2') format('woff2'),
+    url('../assets/fonts/ApercuPro-Light.woff') format('woff');
+  font-weight: 300;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: local('Gotham'), url('../assets/fonts/Gotham-Book.woff2') format('woff2'),
+    url('../assets/fonts/Gotham-Book.woff') format('woff'),
+    url('../assets/fonts/Gotham-Book.ttf') format('truetype'),
+    url('../assets/fonts/Gotham-Book.svg#Gotham-Book') format('svg');
+  font-weight: normal;
+  font-style: normal;
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Gotham';
+  src: local('Gotham'), url('../assets/fonts/Gotham-Bold.woff2') format('woff2'),
+    url('../assets/fonts/Gotham-Bold.woff') format('woff'),
+    url('../assets/fonts/Gotham-Bold.ttf') format('truetype'),
+    url('../assets/fonts/Gotham-Bold.svg#Gotham-Bold') format('svg');
+  font-weight: bold;
+  font-style: normal;
+  font-display: swap;
+}

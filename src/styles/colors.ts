@@ -1,0 +1,9 @@
+export const white = '#ffffff';
+export const greyLighter = '#f2f2f2';
+export const greyLight = '#999999';
+export const grey = '#656565';
+export const greyDark = '#767676';
+export const greyDarker = '#333333';
+export const black = '#000000';
+export const red = '#ae1122';
+export const pink = '#e84591';
